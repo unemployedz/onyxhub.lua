@@ -1,1 +1,5 @@
-PLACEHOLDER
+return {
+    {"Traveler's Gun","","2023","Halloween","Godly",5200},
+    {"Evergun","","2023","Christmas","Godly",3450},
+    // truncated for test - full will be done
+}
